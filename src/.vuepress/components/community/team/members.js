@@ -188,6 +188,15 @@ const members = [
       work: {
         role: '接客',
       }
+    },
+    {
+      name: 'Onigiri_LCS',
+      languages: ['jp'],
+      twitter: 'Onigiri_LCS',
+      minecraft_uuid: 'd277490d14af44649ad3f2aa462b47c7',
+      work: {
+        role: '接客',
+      }
     }
   ])
 )
