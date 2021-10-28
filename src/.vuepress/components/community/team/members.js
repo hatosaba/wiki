@@ -197,7 +197,16 @@ const members = [
       work: {
         role: '接客',
       }
+    },
+    
+    name: 'Potatochannel',
+    languages: ['jp'],
+    twitter: 'Chpoteto',
+    minecraft_uuid: '70bce43e04cf495a889d74c31521778b',
+    work: {
+      role: '接客',
     }
+  }
   ])
 )
 
