@@ -17,7 +17,7 @@ UHCのKITが使えます！！
 
 ![](https://cdn.discordapp.com/attachments/397315421578985493/878906775393419314/unknown.png)
 
-## [ライフ](/server/life.html)
+## [ライフ鯖](/server/life.html)
 
 参加可能バージョン `1.17-1.17.1`
 
