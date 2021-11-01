@@ -137,6 +137,10 @@ module.exports = {
         link: '/community/team/'
       },
       {
+        text: 'テスクチャ',
+        link: '/community/textures/'
+      },
+      {
         text: 'はと鯖を支援する！',
         link: '/support-hatosaba/donations'
       }

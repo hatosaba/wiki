@@ -75,6 +75,8 @@ export default {
 
     this.dates = dates
     this.showLoadButton = false
+
+    //console.log(this.merged)
   },
 
   methods: {
