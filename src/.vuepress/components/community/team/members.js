@@ -206,6 +206,15 @@ const members = [
       work: {
         role: '接客',
       }
+    },
+    {
+      name: 'sa10sa10',
+      languages: ['jp'],
+      twitter: 'Sa10Games',
+      minecraft_uuid: '8f374021fc3e41e78e0b0af93548d7e9',
+      work: {
+        role: '接客',
+      }
     }
   ])
 )
