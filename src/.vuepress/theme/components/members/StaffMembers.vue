@@ -19,7 +19,7 @@
           <img :src="`https://crafatar.com/avatars/${member.img}?overlay=true`" width="120" :alt="member.name">
         </a>
       </div>
-      <RoundedButton url="https://wiki.hatosaba.f5.si/community/team.html">もっと見る</RoundedButton>
+      <RoundedButton url="https://wiki.hatosaba.f5.si/community/team.html">もっと詳しく見る</RoundedButton>
 
       <!--<RoundedButton url="https://forms.gle/swbHLQBPt5aJoUxq5">運営になります！</RoundedButton>-->
     </template>
