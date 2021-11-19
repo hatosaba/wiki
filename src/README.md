@@ -18,7 +18,7 @@ actionButtons:
     target: _blank
 features:
   - title: いろいろな遊び見つかる！
-    details: ミニゲーム,生活,経済,RTM,整地などのいろいろなサーバーが楽しめます！
+    details: 生活,青鬼ごっこなどのいろいろな"遊び"が楽しめます！
   - title: よいはと鯖ライフを！！！！！！！
     details: Discordではリアルタイムにサーバーの情報を配信したり、最新情報をいち早くゲットできたり、ほかのプレイヤーと交流したりできます。
 footer: |
