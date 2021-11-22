@@ -215,6 +215,24 @@ const members = [
       work: {
         role: '接客',
       }
+    },
+    {
+      name: 'Kinoko_2K',
+      languages: ['jp'],
+      twitter: 'kinoko1216',
+      minecraft_uuid: 'a0874294e1a249d0b02002df507e7d18',
+      work: {
+        role: '接客',
+      }
+    },
+    {
+      name: 'MUUTA2334',
+      languages: ['jp'],
+      twitter: 'muutaKOZUKI2334',
+      minecraft_uuid: 'e883c9148f2544769bccae2cb51da054',
+      work: {
+        role: '接客',
+      }
     }
   ])
 )
