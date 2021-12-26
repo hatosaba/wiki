@@ -23,7 +23,8 @@ const languageNameFor = {
   ko: '한국어',
   ro: 'Română',
   uk: 'Українська',
-  no: 'Norwegian'
+  no: 'Norwegian',
+  tai: '火星語(？？？)'
 }
 
 export default {

@@ -1,7 +1,7 @@
 <template>
   <div class="item-preview">
     <a class="item-preview-img" :href="theme.download_url" rel="sponsored">
-      <img :src="theme.icon" :alt="`${theme.name} - ${theme.description}`" loading="lazy">
+      <img :src="theme.icon" :alt="`${theme.name} - ${theme.description}`" loading="lazy" >
     </a>
     <div class="item-preview-name-container">
       <h3 class="item-preview-name">

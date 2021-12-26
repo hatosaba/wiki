@@ -3,7 +3,7 @@ import { shuffle } from 'lodash'
 const members = [
   {
     name: 'hato810424',
-    description: `鯖主でーす、気軽に声かけてね`,
+    description: `ちゃ──ヾ(o'∀'o)ノ──ぉ!!`,
     languages: ['jp'],
     github: 'hato810424',
     twitter: 'hato810424',
@@ -12,35 +12,55 @@ const members = [
     minecraft_uuid: '6b80409a32964d6e8614da041c5ec185',
     work: {
       role: 'サーバーインフラ',
-      org: '最高責任者'
+      org: '鯖主(物理)'
+    },
+  },
+  {
+    name: 'OiEii',
+    languages: ['jp', 'en'],
+    github: 'Elic0de',
+    minecraft_uuid: '9cd931f107f9490ca64e27b6e5644ae8',
+    work: {
+      role: ['<b>［上層部］</b>', 'プラグイン開発', 'サーバーインフラ'],
+      org: '上級管理者'
     }
-  }
+  },
+  {
+    name: 'kakiP1107',
+    description: `自称27683級建築士の人（無能とか言うんじゃねぇぞ絶対だぞ）`,
+    languages: ['jp','tai'],
+    minecraft_uuid: '4d18bbdf19c34efe9524133e1c11dd09',
+    twitter: '7gY0vPUE01MuYjb',
+    work: {
+      role: ['<b>［上層部］</b>'],
+      org: '?'
+    }
+  },
+  {
+    name: 'karaagemorimori',
+    description: `揚げ物大好き`,
+    languages: ['jp'],
+    minecraft_uuid: '83fd8656d10744ebb79a0a8e5d58abd5',
+    github: 'karaagemorimori',
+    twitter: 'karamori_Micra',
+    youtube: 'UC8ILPa6jylLWEXHmnhDAssw',
+    steam: '76561198879854511',
+    work: {
+      role: ['<b>［上層部］</b>'],
+      org: 'MCJR鯖-鯖主'
+    }
+  },
+  {
+    name: 'CleanestQuill89',
+    languages: ['jp'],
+    minecraft_uuid: '10df97fbae094e7490f4e7f26b998b12',
+    work: {
+      role: ['<b>［上層部］</b>'],
+      org: '青鬼鯖-鯖主'
+    }
+  },
 ].concat(
   shuffle([
-    {
-      name: 'EndoRe07',
-      languages: ['jp', 'en'],
-      github: 'Elic0de',
-      minecraft_uuid: '9cd931f107f9490ca64e27b6e5644ae8',
-      work: {
-        role: 'プラグイン開発,サーバーインフラ',
-        org: '上級管理者'
-      }
-    },
-    {
-      name: 'karaagemorimori',
-      description: `揚げ物大好きwikiを作れる`,
-      languages: ['jp'],
-      minecraft_uuid: '83fd8656d10744ebb79a0a8e5d58abd5',
-      github: 'karaagemorimori',
-      twitter: 'karamori_Micra',
-      youtube: 'UC8ILPa6jylLWEXHmnhDAssw',
-      steam: '76561198879854511',
-      work: {
-        role: ['接客', '広報', '建築', 'wiki部'],
-        org: 'MCJR鯖-鯖主'
-      }
-    },
     {
       name: 'Tanisi30',
       languages: ['jp'],
@@ -59,22 +79,12 @@ const members = [
     },
     {
       name: 'frosch_y',
-      description: `26%洗剤の人　イベントとかやっている自称アスレ勢`,
+      description: `26%洗剤の人 自称アスレ勢`,
       languages: ['jp'],
       youtube: 'UC8pCIVFqNezdRAtitGBLUbg',
       minecraft_uuid: 'e98ec65ea77b40ceb46ba6e9e22f6fd6',
       work: {
-        role: 'コマンド',
-      }
-    },
-    {
-      name: 'kakiP1107',
-      description: `自称プロ建築地の人（無能とか言わんといてね）`,
-      languages: ['jp'],
-      minecraft_uuid: '4d18bbdf19c34efe9524133e1c11dd09',
-      twitter: '7gY0vPUE01MuYjb',
-      work: {
-        role: '建築'
+        role: '?',
       }
     },
     {
@@ -87,7 +97,7 @@ const members = [
       languages: ['jp'],
       minecraft_uuid: '878178de06834b22b50d06088f13efc2',
       work: {
-        role: 'サポーター'
+        role: '?'
       }
     },
     {
@@ -97,7 +107,7 @@ const members = [
       twitter: 'doudai9',
       minecraft_uuid: 'abf88b94efaf4ae093593577be486dc4',
       work: {
-        role: '接客'
+        role: '?'
       }
     },
     {
@@ -105,16 +115,7 @@ const members = [
       languages: ['jp'],
       minecraft_uuid: '65d9cc294ea44acb8278b477227cb8e9',
       work: {
-        role: '接客'
-      }
-    },
-    {
-      name: 'CleanestQuill89',
-      languages: ['jp'],
-      minecraft_uuid: '10df97fbae094e7490f4e7f26b998b12',
-      work: {
-        role: '建築',
-        org: '青鬼鯖-鯖主'
+        role: '?'
       }
     },
     {
@@ -122,7 +123,7 @@ const members = [
       languages: ['jp'],
       minecraft_uuid: 'c2c5071f71574930918473d49e8417bb',
       work: {
-        role: '広報',
+        role: '?',
         org: 'FFA鯖-鯖主'
       }
     },
@@ -132,7 +133,7 @@ const members = [
       twitter: 'lemon_tantan_',
       minecraft_uuid: 'cb446eb6b06f4cc4a2b66a3aa815ff83',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -140,7 +141,7 @@ const members = [
       languages: ['jp'],
       minecraft_uuid: '8439a93c40c048b5be1d7d4b3dd42f38',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -149,7 +150,7 @@ const members = [
       twitter: 'yeahnmc',
       minecraft_uuid: '2d048f12e93340e89dd8a7e9f95007aa',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -158,7 +159,7 @@ const members = [
       twitter: 'Rui00831',
       minecraft_uuid: '14965c9af1cf479685279ed30cb19722',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -167,7 +168,7 @@ const members = [
       twitter: 'freedom96718575',
       minecraft_uuid: '39811cfb0fae457995f54f42ffba5363',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -176,7 +177,7 @@ const members = [
       twitter: 'mc_minamikana',
       minecraft_uuid: '2e229038a943426cb50fb34b86b03de8',
       work: {
-        role: '接客',
+        role: '?',
         org: 'Life鯖-鯖主'
       }
     },
@@ -186,7 +187,7 @@ const members = [
       twitter: 'minecrafter_so',
       minecraft_uuid: 'ac840433bf8e4c49b473adc8eba84e11',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -195,7 +196,7 @@ const members = [
       twitter: 'Onigiri_LCS',
       minecraft_uuid: 'd277490d14af44649ad3f2aa462b47c7',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -204,7 +205,7 @@ const members = [
       twitter: 'Chpoteto',
       minecraft_uuid: '70bce43e04cf495a889d74c31521778b',
       work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -213,16 +214,7 @@ const members = [
       twitter: 'Sa10Games',
       minecraft_uuid: '8f374021fc3e41e78e0b0af93548d7e9',
       work: {
-        role: '接客',
-      }
-    },
-    {
-      name: 'Kinoko_2K',
-      languages: ['jp'],
-      twitter: 'kinoko1216',
-      minecraft_uuid: 'a0874294e1a249d0b02002df507e7d18',
-      work: {
-        role: '接客',
+        role: '?',
       }
     },
     {
@@ -231,7 +223,7 @@ const members = [
       twitter: 'muutaKOZUKI2334',
       minecraft_uuid: 'e883c9148f2544769bccae2cb51da054',
       work: {
-        role: '接客',
+        role: '?',
       }
     }
   ])
