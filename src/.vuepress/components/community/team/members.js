@@ -207,7 +207,7 @@ const members = [
       github: `Potatochannel`,
       minecraft_uuid: '70bce43e04cf495a889d74c31521778b',
       work: {
-        role: 'ホームページ作成',
+        role: '?',
       }
     },
     {
