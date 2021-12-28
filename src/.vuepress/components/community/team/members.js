@@ -203,9 +203,11 @@ const members = [
       name: 'Potatochannel',
       languages: ['jp'],
       twitter: 'Chpoteto',
+      youtube: `UC6y3mDqJmAyS09yNLDkaBuQ`,
+      github: `Potatochannel`,
       minecraft_uuid: '70bce43e04cf495a889d74c31521778b',
       work: {
-        role: '?',
+        role: 'ホームページ作成',
       }
     },
     {
