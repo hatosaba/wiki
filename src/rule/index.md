@@ -9,6 +9,3 @@
 - [運営規約](/rule/op-rule.html)
 - [寄付に関する注意](/rule/instance-properties.html) 未完成
 - [プライバシーポリシー](/rule/instance-methods.html) 未完成
-
-## 2022年1月1日からルール改正が行われました。
-- [サーバールール(Minecraft)](/rule/server-rule.html) (上の物と変わりません。)

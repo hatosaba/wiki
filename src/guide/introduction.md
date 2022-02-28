@@ -18,7 +18,12 @@
 ルールの確認はできましたか？
 できたら、サーバーに接続してみましょう。
 
-# 参加方法(Java Edition)
+# 参加方法
+
+* [Java Edition(JE)](#参加方法-java-edition)
+* [Bedrock Edition(BE)](#参加方法-bedrock-edition) (一部ヘルプを受けられない場合があります)
+
+## 参加方法(Java Edition)
 
 ::: warning
 はと鯖（Java Edition）でプレイするには、MinecraftJavaアカウントが必要です。[公式サイト](https://www.minecraft.net/ja-jp)から購入できます。
@@ -52,7 +57,7 @@ Step5.「はと鯖」に接続をダブルクリックして、はと鯖で遊�
 
 ![](https://cdn.discordapp.com/attachments/414688654338818048/864627879194918932/unknown.png) 
 
-# 参加方法(Bedrock Edition)
+## 参加方法(Bedrock Edition)
 
 ::: warning
 Bedrock Edition（以下BE）ではと鯖に接続する際にはMicrosoftアカウント（Xboxアカウント）でログインする必要があります。[公式サイト](https://account.microsoft.com/account/Account?ref=settings&Platform=Windows8.1&mkt=ja-JP)から作成できます。
