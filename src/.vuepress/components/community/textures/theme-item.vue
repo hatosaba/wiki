@@ -1,14 +1,17 @@
 <template>
   <div class="item-preview">
     <a class="item-preview-img" :href="theme.download_url" rel="sponsored">
-      <img :src="theme.icon" :alt="`${theme.name} - ${theme.description}`" loading="lazy" >
+      <img :src="theme.icon" :alt="`${theme.name} - ${theme.description}`" loading="lazy" width=100 height=100>
     </a>
-    <div class="item-preview-name-container">
-      <h3 class="item-preview-name">
-        {{theme.name}}
-      </h3>
+    <div>
+      <div class="item-preview-name-container">
+        <h3 class="item-preview-name">
+          {{theme.name}}
+        </h3>
+      </div>
+      <div class="item-preview-description">{{theme.description}}</div>
     </div>
-    <div class="item-preview-description">{{theme.description}}</div>
+    <div class="line"></div>
   </div>
 </template>
 
@@ -93,4 +96,14 @@ export default {
     font-size: .9rem
   }
 }
+
+/*
+.line {
+  width: 98%;
+  height: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: grey;
+}
+*/
 </style>

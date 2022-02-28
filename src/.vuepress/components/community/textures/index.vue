@@ -2,11 +2,6 @@
   <div class="themes">
     <!-- <theme-provider v-for="provider in merged" :key="provider.name" :provider="provider" /> -->
     <ThemeItem v-for="theme in merged" :key="theme.name" :theme="theme"/>
-
-    <p>
-      あなたのテーマをここで紹介したいですか？
-      <a href="mailto:evan@vuejs.org?subject=Theme+affiliation">ご連絡ください！</a>
-    </p>
   </div>
 </template>
 

@@ -37,12 +37,23 @@ const members = [
     }
   },
   {
+    name: 'frosch_y',
+    description: `26%洗剤の人 自称アスレ勢`,
+    languages: ['jp'],
+    twitter: 'PF_frosch_y',
+    minecraft_uuid: 'e98ec65ea77b40ceb46ba6e9e22f6fd6',
+    work: {
+      role: ['<b>［上層部］</b>'],
+      org: '?'
+    }
+  },
+  {
     name: 'karaagemorimori',
     description: `揚げ物大好き`,
     languages: ['jp'],
     minecraft_uuid: '83fd8656d10744ebb79a0a8e5d58abd5',
     github: 'karaagemorimori',
-    twitter: 'karamori_Micra',
+    twitter: 'karamori_mpp',
     youtube: 'UC8ILPa6jylLWEXHmnhDAssw',
     steam: '76561198879854511',
     work: {
@@ -78,16 +89,6 @@ const members = [
       }
     },
     {
-      name: 'frosch_y',
-      description: `26%洗剤の人 自称アスレ勢`,
-      languages: ['jp'],
-      youtube: 'UC8pCIVFqNezdRAtitGBLUbg',
-      minecraft_uuid: 'e98ec65ea77b40ceb46ba6e9e22f6fd6',
-      work: {
-        role: '?',
-      }
-    },
-    {
       name: 'yohane',
       description: 'ヨハネです。困ったことがありましたら気軽にお声がけください！',
       github: 'Yohane0227',
@@ -119,7 +120,7 @@ const members = [
       }
     },
     {
-      name: 'Genkiyade',
+      name: 'Supuuu',
       languages: ['jp'],
       minecraft_uuid: 'c2c5071f71574930918473d49e8417bb',
       work: {
@@ -190,6 +191,7 @@ const members = [
         role: '?',
       }
     },
+    /*
     {
       name: 'Onigiri_LCS',
       languages: ['jp'],
@@ -199,6 +201,7 @@ const members = [
         role: '?',
       }
     },
+    */
     {
       name: 'Potatochannel',
       languages: ['jp'],
