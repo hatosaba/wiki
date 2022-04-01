@@ -74,6 +74,7 @@ const members = [
   {
       name: 'Supuuu',
       languages: ['jp'],
+    　twitter: 'Suppppppppppp4',
       minecraft_uuid: 'c2c5071f71574930918473d49e8417bb',
       work: {
         role: ['<b>［上層部］</b>'],
