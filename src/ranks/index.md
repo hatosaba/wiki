@@ -12,7 +12,7 @@
 
 * **動画配信者 限定**のランクです。結構目立ちます
 
-対応サイト : [Youtube](https://youtube.com/)  [Twitch](https://www.twitch.tv/)
+対応アカウント : [Youtube](https://youtube.com/)  [Twitch](https://www.twitch.tv/)
 
 <details>
 <summary>詳しく見る</summary>
