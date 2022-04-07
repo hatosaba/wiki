@@ -64,12 +64,23 @@ const members = [
   {
     name: 'CleanestQuill89',
     languages: ['jp'],
+    twitter: 'CleanestQuill89',
     minecraft_uuid: '10df97fbae094e7490f4e7f26b998b12',
     work: {
       role: ['<b>［上層部］</b>'],
       org: '青鬼鯖-鯖主'
     }
   },
+  {
+      name: 'Supuuu',
+      languages: ['jp'],
+    　twitter: 'Suppppppppppp4',
+      minecraft_uuid: 'c2c5071f71574930918473d49e8417bb',
+      work: {
+        role: ['<b>［上層部］</b>'],
+        org: 'FFA鯖-鯖主'
+      }
+    },
 ].concat(
   shuffle([
     {
@@ -117,15 +128,6 @@ const members = [
       minecraft_uuid: '65d9cc294ea44acb8278b477227cb8e9',
       work: {
         role: '?'
-      }
-    },
-    {
-      name: 'Supuuu',
-      languages: ['jp'],
-      minecraft_uuid: 'c2c5071f71574930918473d49e8417bb',
-      work: {
-        role: '?',
-        org: 'FFA鯖-鯖主'
       }
     },
     {
