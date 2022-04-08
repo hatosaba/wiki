@@ -175,42 +175,10 @@ const members = [
       }
     },
     {
-      name: 'tsubu_sensei1021',
-      languages: ['jp'],
-      twitter: 'mc_minamikana',
-      minecraft_uuid: '2e229038a943426cb50fb34b86b03de8',
-      work: {
-        role: '?',
-        org: 'Life鯖-鯖主'
-      }
-    },
-    {
       name: 'Sou2014',
       languages: ['jp'],
       twitter: 'minecrafter_so',
       minecraft_uuid: 'ac840433bf8e4c49b473adc8eba84e11',
-      work: {
-        role: '?',
-      }
-    },
-    /*
-    {
-      name: 'Onigiri_LCS',
-      languages: ['jp'],
-      twitter: 'Onigiri_LCS',
-      minecraft_uuid: 'd277490d14af44649ad3f2aa462b47c7',
-      work: {
-        role: '?',
-      }
-    },
-    */
-    {
-      name: 'Potatochannel',
-      languages: ['jp'],
-      twitter: 'Chpoteto',
-      youtube: `UC6y3mDqJmAyS09yNLDkaBuQ`,
-      github: `Potatochannel`,
-      minecraft_uuid: '70bce43e04cf495a889d74c31521778b',
       work: {
         role: '?',
       }
@@ -237,3 +205,11 @@ const members = [
 )
 
 export default members
+
+/*
+  2e229038a943426cb50fb34b86b03de8
+
+  d277490d14af44649ad3f2aa462b47c7
+
+  70bce43e04cf495a889d74c31521778b
+*/
