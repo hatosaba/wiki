@@ -205,11 +205,3 @@ const members = [
 )
 
 export default members
-
-/*
-  2e229038a943426cb50fb34b86b03de8
-
-  d277490d14af44649ad3f2aa462b47c7
-
-  70bce43e04cf495a889d74c31521778b
-*/
