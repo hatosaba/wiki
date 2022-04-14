@@ -25,6 +25,7 @@
 <br>※対応サイト以外では登録できません
 <br>※事前にDiscordアカウントと連携をお願いします
 ![](https://media.discordapp.net/attachments/917068036123557898/958253238560374784/unknown.png)
+![](https://cdn.discordapp.com/attachments/917068036123557898/961926022155096094/unknown.png)
 
 ### [Streamer]
 条件
@@ -33,7 +34,7 @@
 
 ### [Streamer+]
 条件
-* 登録者 : 1000人以上
+* 登録者 : 500人以上
 * Minecraftを実況、配信している(hato鯖ではないコンテンツでも可能)
 
 </details>
