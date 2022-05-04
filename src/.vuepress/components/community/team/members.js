@@ -48,20 +48,6 @@ const members = [
     }
   },
   {
-    name: 'karaagemorimori',
-    description: `揚げ物大好き`,
-    languages: ['jp'],
-    minecraft_uuid: '83fd8656d10744ebb79a0a8e5d58abd5',
-    github: 'karaagemorimori',
-    twitter: 'karamori_mpp',
-    youtube: 'UC8ILPa6jylLWEXHmnhDAssw',
-    steam: '76561198879854511',
-    work: {
-      role: ['<b>［上層部］</b>'],
-      org: 'MCJR鯖-鯖主'
-    }
-  },
-  {
     name: 'CleanestQuill89',
     languages: ['jp'],
     twitter: 'CleanestQuill89',
@@ -74,7 +60,7 @@ const members = [
   {
       name: 'Supuuu',
       languages: ['jp'],
-    　twitter: 'Suppppppppppp4',
+      twitter: 'Suppppppppppp4',
       minecraft_uuid: 'c2c5071f71574930918473d49e8417bb',
       work: {
         role: ['<b>［上層部］</b>'],
