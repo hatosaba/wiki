@@ -102,6 +102,7 @@ module.exports = {
   themeConfig: {
     //logo: '/logo.png',
     nav: [
+      /*
       {
         text: 'トップ',
         ariaLabel: 'Documentation Menu',
@@ -120,6 +121,7 @@ module.exports = {
           }
         ]
       },
+      */
       {
         text: 'ルール',
         link: '/rule/'
@@ -140,10 +142,12 @@ module.exports = {
         text: 'テスクチャ',
         link: '/community/textures/'
       },
+      /*
       {
         text: 'はと鯖を支援する！',
         link: '/support-hatosaba/donations'
       }
+      */
     ],
     repo: 'hatosaba/wiki',
     docsBranch: 'main',
