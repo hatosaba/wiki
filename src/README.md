@@ -23,7 +23,7 @@ features:
     details: Discordではリアルタイムにサーバーの情報を配信したり、最新情報をいち早くゲットできたり、ほかのプレイヤーと交流したりできます。
 footer: |
   Released under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT License</a><br>
-  Copyright © 2014-2021 Evan You
+  Copyright hatosaba.f5.si
 socialIcons:
   - type: GitHub
     link: https://github.com/hatosaba
