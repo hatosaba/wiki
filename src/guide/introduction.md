@@ -21,7 +21,7 @@
 # 参加方法
 
 * [Java Edition(JE)](#参加方法-java-edition)
-* [Bedrock Edition(BE)](#参加方法-bedrock-edition) (一部ヘルプを受けられない場合があります)
+* [Bedrock Edition(BE)](#参加方法-bedrock-edition) (一部サポートを受けられない場合があります)
 
 ## 参加方法(Java Edition)
 
@@ -61,15 +61,17 @@ Step5.「はと鯖」に接続をダブルクリックして、はと鯖で遊�
 
 ::: warning
 Bedrock Edition（以下BE）ではと鯖に接続する際にはMicrosoftアカウント（Xboxアカウント）でログインする必要があります。[公式サイト](https://account.microsoft.com/account/Account?ref=settings&Platform=Windows8.1&mkt=ja-JP)から作成できます。
+
+※Java Editionアカウントは不要です
 :::
 
 Step1.MinecraftBEを開き、遊ぶをクリックします。
 
-![](https://cdn.discordapp.com/attachments/924547447026507793/924547569462431804/noname.png)
+![](https://cdn.discordapp.com/attachments/917068036123557898/992128704153133147/unknown.png)
 
 Step.2サーバーのタブからサーバーを追加をクリックします。
 
-![](https://cdn.discordapp.com/attachments/924547447026507793/924547894244167700/unknown.png)
+![](https://cdn.discordapp.com/attachments/917068036123557898/992136376315285664/unknown.png)
 
 Step3.サーバーの詳細を入力します。
 
@@ -79,8 +81,8 @@ Step3.サーバーの詳細を入力します。
 
 ポート：`19132`
 
-![](https://cdn.discordapp.com/attachments/924547447026507793/924548115682459738/unknown.png)
+![](https://cdn.discordapp.com/attachments/917068036123557898/992136911302967406/unknown.png)
 
 Step4.保存をクリックして、サーバーに参加します。
 
-![](https://cdn.discordapp.com/attachments/924547447026507793/924548202173181992/unknown.png)
+![](https://media.discordapp.net/attachments/917068036123557898/992137879776145528/unknown.png)
