@@ -29,7 +29,7 @@
 はと鯖（Java Edition）でプレイするには、MinecraftJavaアカウントが必要です。[公式サイト](https://www.minecraft.net/ja-jp)から購入できます。
 :::
 
-Step1. Minecraft Javaエディションを開き、実行するバージョンを選択します。すべてのバージョン**1.12.2**以降をサポートします。
+Step1. Minecraft Javaエディションを開き、実行するバージョンを選択します。すべてのバージョン**1.8**以降をサポートします。
 
 ![](https://cdn.discordapp.com/attachments/414688654338818048/864626472500985926/unknown.png)
 
