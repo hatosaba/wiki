@@ -1,7 +1,7 @@
 <template>
   <div class="item-preview">
     <a class="item-preview-img" :href="theme.download_url" rel="sponsored">
-      <img :src="theme.icon" :alt="`${theme.name} - ${theme.description}`" loading="lazy" width=100 height=100>
+      <img :src="theme.icon" :alt="`${theme.name} - ${theme.description}`" loading="lazy" width=100 height=100 onerror="this.src = '//raw.githubusercontent.com/hatosaba/resourcepacks/main/Default.png';">
     </a>
     <div>
       <div class="item-preview-name-container">
