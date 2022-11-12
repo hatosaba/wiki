@@ -88,9 +88,7 @@ const members = [
     {
       name: 'yohane',
       description: 'ヨハネです。困ったことがありましたら気軽にお声がけください！',
-      github: 'Yohane0227',
-      twitter: 'Yohane27_',
-      steam: 'yohane1636',
+      twitter: 'yhne_Yohane',
       youtube: 'UCSXnjIIX7I1dw5jiQxmdm6w',
       languages: ['jp'],
       minecraft_uuid: '878178de06834b22b50d06088f13efc2',
