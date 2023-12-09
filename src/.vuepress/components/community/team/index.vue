@@ -2,9 +2,15 @@
   <div>
     <div class="team">
       <h2 id="active-core-team-members">
-        はと鯖を支えている運営チーム！
-      </h2>
-      <VuerProfile v-for="profile in members" :key="profile.name" :profile="profile" :use-miles="useMiles"/>
+          休止中のため非公開になっています。
+        </h2>
+      <!-- 
+        <h2 id="active-core-team-members">
+          はと鯖を支えている運営チーム！
+        </h2>
+        <VuerProfile v-for="profile in members" :key="profile.name" :profile="profile" :use-miles="useMiles"/>
+      -->
+      
     </div>
   </div>
 </template>
